@@ -1,2 +1,6 @@
 testOne
+HEAD
 Some change to the file
+Another change to the same file
+FINAL CHANGE FOR MERGING
+newBranch
